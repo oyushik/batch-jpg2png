@@ -1,6 +1,6 @@
 # JPEG to PNG
 
-현재 디렉토리에 있는 `.jpg`, `.jpeg` 이미지를 `.png`로 변환하는 간단한 Python 스크립트입니다.
+현재 디렉토리에 있는 `.jpg`, `.jpeg` 이미지를 `.png`로 변환하는 간단한 Python 스크립트입니다. AI 딸깍 코드입니다. 전 잘 몰?루용
 
 ## Requirements
 
